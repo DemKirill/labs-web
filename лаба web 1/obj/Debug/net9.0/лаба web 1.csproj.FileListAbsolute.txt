@@ -1,0 +1,97 @@
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\bin\Debug\net9.0\appsettings.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\bin\Debug\net9.0\лаба web 1.staticwebassets.runtime.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\bin\Debug\net9.0\лаба web 1.staticwebassets.endpoints.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\bin\Debug\net9.0\лаба web 1.exe
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\bin\Debug\net9.0\лаба web 1.deps.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\bin\Debug\net9.0\лаба web 1.runtimeconfig.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\bin\Debug\net9.0\лаба web 1.dll
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\bin\Debug\net9.0\лаба web 1.pdb
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.RazorAssemblyInfo.cache
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.RazorAssemblyInfo.cs
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\scopedcss\bundle\лаба web 1.styles.css
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\scopedcss\projectbundle\лаба web 1.bundle.scp.css
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\dzykdlvfzh-b9sayid5wm.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\pmgh0kwm7l-61n19gt1b8.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\k3g06xk697-xtxxf3hu2r.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\u0fz283gmf-bqjiyaj88i.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\4jdakd5kjl-c2jlpeoesf.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\qv8rjh7cbw-erw9l3u2r3.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\p53ug5mbwn-aexeepp0ev.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\zc57c25c73-d7shbmvgxk.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\ky3mxrpm0w-ausgxo2sd3.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\f5g9srdxxq-k8d9w2qqmf.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\jl5p7qyius-cosvhxvwiu.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\i5v53z7rb6-ub07r2b239.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\j4tnpoqrdb-fvhpjtyr6v.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\kh4cfta2jk-b7pk76d08c.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\pwpq6wfyh7-fsbi9cje9m.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\lxfoxtdxvw-rzd6atqjts.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\e6ujezn9zx-ee0r1s7dh0.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\4n09rxmpvc-dxx9fxp4il.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\ok9qnisrj9-jd9uben2k1.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\f3i74bofpi-khv3u5hwcm.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\9hm0jnxar3-r4e9w2rdcm.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\787dkakhqu-lcd1t2u6c8.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\jhekzuqg0t-c2oey78nd0.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\t0fi7dp2oh-tdbxkamptv.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\aravy22tjj-j5mq2jizvt.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\q5beo2l4wb-06098lyss8.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\0i4r7ceu07-nvvlpmu67g.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\jzfwornrvs-s35ty4nyc5.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\8px0fztsuv-pj5nd1wqec.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\lvzh2t74j1-46ein0sx1k.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\j19ofl1lpw-v0zj4ognzu.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\9aecw004fh-37tfw0ft22.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\jowt9hemop-hrwsygsryq.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\55zu6fjkcm-pk9g2wxc8p.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\369z8zhqpn-ft3s53vfgj.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\67ijhvv1kx-6cfz1n2cew.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\ya4pxcmfs1-6pdc2jztkx.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\bfa5azd5av-493y06b0oq.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\46r8za59bx-iovd86k7lj.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\ew9ndezj5c-vr1egmr9el.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\rcsijr7rfb-kbrnm935zg.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\r1vwd4k0bn-jj8uyg4cgr.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\imwv5kmazs-y7v9cxd14o.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\ym9igp4so7-notf2xhcfb.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\y22vb79vc6-h1s4sie4z3.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\qoc1bpkmhe-63fj8s7r0e.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\p8g4frxjmb-0j3bgjxly4.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\v7mjueq7q5-47otxtyo56.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\na91agg5lp-4v8eqarkd7.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\jh6p813o7h-356vix0kms.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\76h99r71o6-83jwlth58m.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\qcukcxjn9r-mrlpezrjn3.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\41jsuw6hy7-lzl9nlhx6b.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\sv7oijd75f-ag7o75518u.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\oqekclsod1-x0q3zqp4vz.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\1dodbblnjt-0i3buxo5is.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\4cu9lhu9ul-o1o13a6vjx.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\lz05f660ys-ttgo8qnofa.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\d7kzzdt14d-2z0ns9nrw6.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\bobpy5poba-muycvpuwrr.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\419qz27myq-87fc7y1x7t.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\l3ptw67p94-mlv21k5csn.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\ys576k4wog-6j905zvpts.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\compressed\hlzybytuqv-6j905zvpts.gz
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\staticwebassets\msbuild.лаба web 1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\staticwebassets\msbuild.лаба web 1.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\staticwebassets\msbuild.build.лаба web 1.props
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.лаба web 1.props
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.лаба web 1.props
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.dll
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\refint\лаба web 1.dll
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.pdb
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.genruntimeconfig.cache
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\ref\лаба web 1.dll
