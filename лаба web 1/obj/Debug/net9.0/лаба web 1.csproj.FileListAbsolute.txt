@@ -95,3 +95,4 @@ C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба
 C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.pdb
 C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.genruntimeconfig.cache
 C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\ref\лаба web 1.dll
+C:\Users\Kirill\Desktop\Лабы Варкентина\лабы web\-web\лаба web 1\obj\Debug\net9.0\лаба web 1.sourcelink.json
